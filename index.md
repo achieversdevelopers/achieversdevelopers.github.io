@@ -1,8 +1,3 @@
-layout: frontpage
-title: Let God 360
-description: Read FREE Christian Books, watch FREE motivational videos, & Create your own Christian text-post or share your favorite Christian videos to encourage someone today!
-##keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
----
 
 <div class="navbar">
   <div class="navbar-inner">
