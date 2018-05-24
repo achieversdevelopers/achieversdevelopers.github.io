@@ -2,7 +2,7 @@
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">Privacy Policy</a></li>
           <li><a href="https://github.com/kbroman">github</a></li>
           <li><a href="https://instagram.com/let_God3">Instagram</a></li>
           <li><a href="https://facebook.com/letGod3">Facebook</a></li>
