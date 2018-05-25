@@ -14,7 +14,7 @@
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://instagram.com/let_God3">Let God 360 App for Android</a></li>
+          <li><a href="https://play.google.com/store/apps/details?id=achievers.letgod360.com">Download Let God 360 App for Android</a></li>
       </ul>
   </div>
 </div>
